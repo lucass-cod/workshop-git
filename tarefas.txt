@@ -2,6 +2,5 @@ Lista de tarefas:
 
 1. Estudar java
 2. Jogar bola
-3.Comer frutas
 4.Aprender a voar
 5.tomar banho
