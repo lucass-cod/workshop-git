@@ -2,5 +2,9 @@ Lista de tarefas:
 
 1. Estudar java
 2. Jogar bola
-4.Aprender a voar
-5.tomar banho
+3.Aprender a voar
+4.tomar banho
+5.Comer frutas
+6.dormir cedo
+7.tomar agua
+
